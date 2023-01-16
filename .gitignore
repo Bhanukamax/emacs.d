@@ -32,3 +32,5 @@ auto-save-list
 /custom.el
 /viper
 /snippets/
+/*untrack.el
+/proj-marks-data.el
