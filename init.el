@@ -789,3 +789,5 @@ surrounded by word boundaries."
 ;; (add-to-list 'eglot-server-programs '((c++-mode c-mode) "clangd"))
 ;; (add-hook 'c-mode-hook 'eglot-ensure)
 ;; (add-hook 'c++-mode-hook 'eglot-ensure)
+;; emacs29 stuff
+(pixel-scroll-precision-mode)
